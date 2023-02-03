@@ -60,6 +60,7 @@ The mean of the cult c39 is 51.5 which is lower than c52 which is 64.4. Therefor
 t.test(VitC~Cult,data=veggy)
 ```
 
+If there was no difference in c39 and c52 then the p-value would be 0.00000003405. Since the p-value is so so small, it almost ensures that the C52 method produces more Vitamin C than the c39 method.
 
 # Discussion and Conclusion
 
