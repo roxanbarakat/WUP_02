@@ -39,7 +39,7 @@ veggy <- cabbages
 plot(VitC~Cult,data=veggy)
 ```
 
-
+C52 has a greater amount of Vitamin C than c39. The bottom of the box plot of c52 is higher than the top of the box plot of c39.
 
 ### Numerical Descriptive Results
 
