@@ -49,6 +49,7 @@ C52 has a greater amount of Vitamin C than c39. The bottom of the box plot of c5
 favstats(VitC~Cult,data=veggy)
 ```
 
+The mean of the cult c39 is 51.5 which is lower than c52 which is 64.4. Therefore, the cult of c52 has a higher Vitamin C than c39. In addition, Quartile 1 of c52 is significantly higher than Quartile 1 of c39, since Q1 of c52 is 58 and Q1 of c39 is 46. 
 
 
 ## Inferential Results
